@@ -5,7 +5,7 @@ We introduce a benchmark testbed for a novel unsupervised domain adaptation prob
 **Setup**
 
 1. Download the complete SUNRGB-D dataset from this [link](https://github.com/ownstyledu/Translate-to-Recognize-Networks).
-2. Use the txt file in the "subsets" folder.
+2. Use the proposed txt files in the "subsets" folder.
 
 ![Test Image 1](image.png)
 
