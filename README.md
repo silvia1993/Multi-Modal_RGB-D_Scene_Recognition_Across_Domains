@@ -27,3 +27,17 @@ We introduce a benchmark testbed for a novel unsupervised domain adaptation prob
 **Acknowledgement**
 
 Code in this repository has been written starting from [Translate-to-Recognize](https://github.com/ownstyledu/Translate-to-Recognize-Networks)
+
+**Citation**
+
+To cite, please use the following reference:
+
+```
+@inproceedings{FerreriBucciTommasi2021,
+  title={Multi-Modal RGB-D Scene Recognition Across Domains},
+  author={Andrea Ferreri, Silvia Bucci, Tatiana Tommasi},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+  year={2021}
+} 
+```
+
