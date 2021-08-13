@@ -12,4 +12,18 @@ We introduce a benchmark testbed for a novel unsupervised domain adaptation prob
 
 ![Test Image 1](image.png)
 
+3. To run the model, execute the following code: ``` python train.py ```
+    * Configs DATA\_DIR\_TRAIN, DATA\_DIR\_TRAIN\_2 and DATA\_DIR\_VAL must be changed according to the domains
+    * With Realsense, FILTER\_BEDROOM must be set to True and NUM\_CLASSES to 9
 
+**Requirements**
+
+* Cuda 10.1
+* Python 3.7.7
+* Torch 1.0.0
+* Torchvision 0.2.1
+* Other Python Requirements in requirements.txt
+
+**Acknowledgement**
+
+Code in this repository has been written starting from [Translate-to-Recognize](https://github.com/ownstyledu/Translate-to-Recognize-Networks)
